@@ -103,10 +103,19 @@ section {
 }
 
 .row{
-  padding-top: 50px;
+  padding-top: 100px;
 }
 
 .contact  i{
   font-size: 1.5rem;
   padding: 8px 12px;
+}
+
+
+/* Project Body */
+
+
+
+img {
+  width: 90%;
 }

@@ -2,10 +2,16 @@
 
 @media (max-width: 768px) {
     /*Navbar*/
+    .logo{
+      display: none;
+    }
+
     .navbar {
       flex-direction: column;
       align-items: flex-start;
       padding: 8px 24px;
+      height: 3rem;
+      background-color: white;
     }
   
     .navbar_menu {
